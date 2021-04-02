@@ -3,9 +3,12 @@
     --hn__button--color: #1a73e8;
     --hn__button-text--color: #fff;
     --buscador__container--br-color: #E7E9EB;
+    
+    --buscador__container--hvr-bs-config: 0.5px 0.5px 5px 0.3px #b4b2b2;
+
     --botones__container--ipt-color: #F8F9FA;
     --botones__container--ipt-br-color: rgb(248,249,250);
-    --buscador__container--hvr-bs-config: 0.5px 0.5px 5px 0.3px #b4b2b2;
+
     --botones__container--ipt-hvr-bg-color: #f8f9fa;
     --botones__container--ipt-hvr-br-color: #dadce0;
     --botones__container--ipt-hvr-bs-config: 0 1px 1px rgba(0,0,0,.1);
